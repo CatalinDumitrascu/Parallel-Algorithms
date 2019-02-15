@@ -11,4 +11,6 @@ program, and the student is given 0 points.
 The solution should be implemented in Java using threads. You are only responsible for implementing the
 miners and the communication channel between them and the wizards.
 
-There are miners, wizards, puzzles, a communication channel amd a cave system. The whole problem is beautifully outlined in the .pdf file in this repository. In summary, i solved it using java's threaded solutions, such as "synchronize" and concurrentHashMap.
+There are miners, wizards, puzzles, a communication channel amd a cave system. The whole problem is beautifully outlined in the .pdf file in this repository. In summary, I solved it using java's threaded solutions, such as "synchronize" and concurrentHashMap.
+
+PS: The whole project in the .zip archive.
